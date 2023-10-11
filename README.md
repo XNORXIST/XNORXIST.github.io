@@ -5,3 +5,5 @@
 - Full name (TH) : ณภัทร สายฟอง
 - Nickname : PP
 - Guest : สมมนัส เกตุผ่อง (ตอง)
+- Quality Attributes
+- - Chat gpt
