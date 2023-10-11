@@ -6,4 +6,4 @@
 - Nickname : PP
 - Guest : สมมนัส เกตุผ่อง (ตอง)
 - Quality Attributes
-- - Chat gpt
+-   Chat gpt
